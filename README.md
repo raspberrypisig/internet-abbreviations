@@ -1,1 +1,1 @@
-# internet-abbreviations
+# Internet Abbreviations
