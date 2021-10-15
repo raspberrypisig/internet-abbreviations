@@ -16,14 +16,6 @@
         "meaning": "Always At The Keyboard"
     },
     {
-        "name": "AAYF",
-        "meaning": "As Always, Your Friend"
-    },
-    {
-        "name": "ABCD",
-        "meaning": "Artificial Intelligence, Blockchain, Cloud, Data"
-    },
-    {
         "name": "ACORN",
         "meaning": "A Completely Obsessive Really Nutty person"
     },
@@ -50,10 +42,6 @@
     {
         "name": "AFAGAY",
         "meaning": "A Friend As Good As You"
-    },
-    {
-        "name": "AFAIC",
-        "meaning": "As Far As I'm Concerned"
     },
     {
         "name": "AFAICS",
@@ -84,18 +72,6 @@
         "meaning": "As Far As Possible"
     },
     {
-        "name": "AFAYC",
-        "meaning": "As Far As You're Concerned"
-    },
-    {
-        "name": "AFDN",
-        "meaning": "Any F***ing Day Now"
-    },
-    {
-        "name": "AFGO",
-        "meaning": "Another F***ing Growth Opportunity"
-    },
-    {
         "name": "AFIAA",
         "meaning": "As Far As I Am Aware"
     },
@@ -106,10 +82,6 @@
     {
         "name": "AGIG",
         "meaning": "American Girl InstaGram"
-    },
-    {
-        "name": "AIAMU",
-        "meaning": "And I'm A Monkey's Uncle"
     },
     {
         "name": "AIMB",
@@ -144,14 +116,6 @@
         "meaning": "Actually Laughing Out Loud"
     },
     {
-        "name": "ALTG",
-        "meaning": "Act Locally, Think Globally"
-    },
-    {
-        "name": "AMAP",
-        "meaning": "As Many As Possible -or- As Much As Possible"
-    },
-    {
         "name": "AMBW",
         "meaning": "All My Best Wishes"
     },
@@ -174,14 +138,6 @@
     {
         "name": "AOYP",
         "meaning": "Angel On Your Pillow"
-    },
-    {
-        "name": "APAC",
-        "meaning": "Asia-Pacific"
-    },
-    {
-        "name": "ASAFP",
-        "meaning": "As Soon As F***ing Possible"
     },
     {
         "name": "ASAMOF",
@@ -220,10 +176,6 @@
         "meaning": "And U Know This Man"
     },
     {
-        "name": "AWHFY",
-        "meaning": "Are We Having Fun Yet?"
-    },
-    {
         "name": "AWLTP",
         "meaning": "Avoiding Work Like The Plague"
     },
@@ -244,20 +196,12 @@
         "meaning": "All You Can Eat"
     },
     {
-        "name": "AYEG",
-        "meaning": "Are You Even Goth?"
-    },
-    {
         "name": "AYMM",
         "meaning": "Are You My Mother"
     },
     {
         "name": "AYOR",
         "meaning": "At Your Own Risk"
-    },
-    {
-        "name": "AYTMTB",
-        "meaning": "And You're Telling Me This Because"
     },
     {
         "name": "BABY",
@@ -276,16 +220,8 @@
         "meaning": "Buy Abroad but Rent in Britain"
     },
     {
-        "name": "BASE",
-        "meaning": "Buildings, Antennas, Spans, Earth"
-    },
-    {
         "name": "BBBG",
         "meaning": "Bye Bye Be Good"
-    },
-    {
-        "name": "BBFBBM",
-        "meaning": "Body By Fisher, Brains By Mattel"
     },
     {
         "name": "BBFN",
@@ -308,24 +244,12 @@
         "meaning": "Be Back In A While"
     },
     {
-        "name": "BBMFIC",
-        "meaning": "Big Bad Mother F***er In Charge"
-    },
-    {
         "name": "BBSD",
         "meaning": "Be Back Soon Darling"
     },
     {
         "name": "BBSL",
         "meaning": "Be Back Sooner or Later"
-    },
-    {
-        "name": "BCBG",
-        "meaning": "Bon Chic Bon Genre -or- Belle Cul Belle Geulle"
-    },
-    {
-        "name": "BCBS",
-        "meaning": "Big Company, Big School"
     },
     {
         "name": "BCNU",
@@ -368,10 +292,6 @@
         "meaning": "Basic Instructions Before Leaving Earth"
     },
     {
-        "name": "BIBO",
-        "meaning": "Beer In, Beer Out"
-    },
-    {
         "name": "BION",
         "meaning": "Believe It Or Not"
     },
@@ -390,10 +310,6 @@
     {
         "name": "BLAST",
         "meaning": "BiLateral Alternating Stimulation Tactile"
-    },
-    {
-        "name": "BLBBLB",
-        "meaning": "Back Like Bull, Brain Like Bird"
     },
     {
         "name": "Blkbry",
@@ -416,16 +332,8 @@
         "meaning": "Been Nowhere Done Nothing"
     },
     {
-        "name": "BOAISY",
-        "meaning": "Bend Over And I'll Show You"
-    },
-    {
         "name": "BOAT",
         "meaning": "Bust Out Another Thousand"
-    },
-    {
-        "name": "BOBFOC",
-        "meaning": "Body Off Baywatch, Face Off Crimewatch"
     },
     {
         "name": "BOHICA",
@@ -452,20 +360,12 @@
         "meaning": "Big Person Little Mind"
     },
     {
-        "name": "BRICS",
-        "meaning": "Brazil, Russia, India, China, South Africa"
-    },
-    {
         "name": "BRUF",
         "meaning": "Big Requirements Up Front"
     },
     {
         "name": "BSAAW",
         "meaning": "Big Smile And A Wink"
-    },
-    {
-        "name": "BSEG",
-        "meaning": "Big Sh** Eating Grin"
     },
     {
         "name": "BSOD",
@@ -480,16 +380,8 @@
         "meaning": "it means beautiful day"
     },
     {
-        "name": "BTFO",
-        "meaning": "Back The F*** Off -or- Bend The F*** Over"
-    },
-    {
         "name": "BTHOOM",
         "meaning": "Beats The Heck Out Of Me"
-    },
-    {
-        "name": "BTSOOM",
-        "meaning": "Beats The Sh** Out Of Me"
     },
     {
         "name": "BTTE",
@@ -498,10 +390,6 @@
     {
         "name": "BTTP",
         "meaning": "Back To The Past"
-    },
-    {
-        "name": "BTTT",
-        "meaning": "Back To The Top -or- Bump To The Top"
     },
     {
         "name": "BTWBO",
@@ -520,10 +408,6 @@
         "meaning": "But What Do I Know"
     },
     {
-        "name": "BWTM",
-        "meaning": "But Wait, There's More"
-    },
-    {
         "name": "BYAM",
         "meaning": "Between You And Me"
     },
@@ -540,20 +424,12 @@
         "meaning": "Bring Your Own Advil"
     },
     {
-        "name": "BYOB",
-        "meaning": "Bring Your Own Bottle -or- Bring Your Own Beer"
-    },
-    {
         "name": "BYOD",
         "meaning": "Bring Your Own Device"
     },
     {
         "name": "BYOP",
         "meaning": "Bring Your Own Pencil"
-    },
-    {
-        "name": "BYOW",
-        "meaning": "Build Your Own Website -or- Bring Your Own Wine"
     },
     {
         "name": "BYTME",
@@ -572,28 +448,12 @@
         "meaning": "Conservative Christians on Twitter"
     },
     {
-        "name": "CIAO",
-        "meaning": "Goodbye (in Italian)"
-    },
-    {
-        "name": "CICO",
-        "meaning": "Coffee In, Coffee Out"
-    },
-    {
         "name": "CICYHW",
         "meaning": "Can I Copy Your Home Work"
     },
     {
         "name": "CINBA",
         "meaning": "Clad In Naught But Air"
-    },
-    {
-        "name": "CITO",
-        "meaning": "Cache In, Trash Out"
-    },
-    {
-        "name": "CMIW",
-        "meaning": "Correct Me if I'm Wrong"
     },
     {
         "name": "CMSU",
@@ -616,44 +476,16 @@
         "meaning": "Chuckling Quietly To Self"
     },
     {
-        "name": "CRAFT",
-        "meaning": "Can't Remember A F***ing Thing"
-    },
-    {
         "name": "CRAP",
         "meaning": "Cheap Redundant Assorted Products"
-    },
-    {
-        "name": "CRAT",
-        "meaning": "Can't Remember A Thing"
-    },
-    {
-        "name": "CRAWS",
-        "meaning": "Can't Remember Anything Worth A Sh**"
     },
     {
         "name": "CRBT",
         "meaning": "Crying Real Big Tears"
     },
     {
-        "name": "CRTLA",
-        "meaning": "Can't Remember the Three-Letter Acronym"
-    },
-    {
         "name": "CSABR",
         "meaning": "Continued Success And Best Regards"
-    },
-    {
-        "name": "CTFD",
-        "meaning": "Calm The F*** Down"
-    },
-    {
-        "name": "CTFO",
-        "meaning": "Come The F*** On"
-    },
-    {
-        "name": "CTFU",
-        "meaning": "Cracking The F*** Up"
     },
     {
         "name": "CTMQ",
@@ -674,10 +506,6 @@
     {
         "name": "CUNS",
         "meaning": "See You In School"
-    },
-    {
-        "name": "CUNT",
-        "meaning": "See You Next Time -or- Can't Understand Newest Text -or- Can't Understand Normal Thinking"
     },
     {
         "name": "CUOL",
@@ -704,88 +532,16 @@
         "meaning": "Create Your Own Happening"
     },
     {
-        "name": "DAFUQ",
-        "meaning": "What the F***"
-    },
-    {
-        "name": "DANNY",
-        "meaning": "Duplicating Another's, Not Necessarily Yours"
-    },
-    {
         "name": "DARFC",
         "meaning": "Ducking And Running For Cover"
-    },
-    {
-        "name": "DBBSWF",
-        "meaning": "Dream Boat Body, Shipwreck Face"
-    },
-    {
-        "name": "DBEYR",
-        "meaning": "Don't Believe Everything You Read"
-    },
-    {
-        "name": "DBMIB",
-        "meaning": "Don't Bother Me I'm Busy"
-    },
-    {
-        "name": "DDSOS",
-        "meaning": "Different Day, Same Old Sh**"
-    },
-    {
-        "name": "DEGT",
-        "meaning": "Don't Even Go There"
-    },
-    {
-        "name": "DENIAL",
-        "meaning": "Don't Even Notice I Am Lying"
-    },
-    {
-        "name": "DETI",
-        "meaning": "Don't Even Think It"
     },
     {
         "name": "DFIK",
         "meaning": "Darn If I Know"
     },
     {
-        "name": "DFLA",
-        "meaning": "Disenhanced Four-Letter Acronym (that is, a TLA)"
-    },
-    {
-        "name": "DFTBA",
-        "meaning": "Don't Forget To Be Awesome"
-    },
-    {
-        "name": "DFWLY",
-        "meaning": "Don't Forget Who Loves You"
-    },
-    {
-        "name": "DGAF",
-        "meaning": "Don't Give A F***"
-    },
-    {
-        "name": "DGTG",
-        "meaning": "Don't Go There Girlfriend"
-    },
-    {
-        "name": "DHYB",
-        "meaning": "Don't Hold Your Breath"
-    },
-    {
         "name": "DIAF",
         "meaning": "Die In A Fire"
-    },
-    {
-        "name": "DIFBET",
-        "meaning": "it means what's the difference between"
-    },
-    {
-        "name": "DIKU",
-        "meaning": "Do I Know You?"
-    },
-    {
-        "name": "DINK",
-        "meaning": "Double Incomes, No Kids"
     },
     {
         "name": "DINO",
@@ -800,68 +556,16 @@
         "meaning": "Do It Right the First Time"
     },
     {
-        "name": "DISTO",
-        "meaning": "Did I Say That Outloud?"
-    },
-    {
         "name": "DITR",
         "meaning": "Dancing In The Rain"
-    },
-    {
-        "name": "DITYID",
-        "meaning": "Did I Tell You I'm Distressed"
-    },
-    {
-        "name": "DKDC",
-        "meaning": "Don't Know Don't Care"
-    },
-    {
-        "name": "DLTBBB",
-        "meaning": "Don't Let The Bed Bugs Bite"
-    },
-    {
-        "name": "DLTM",
-        "meaning": "Don't Lie To Me"
-    },
-    {
-        "name": "DOEI",
-        "meaning": "Goodbye (in Dutch)"
     },
     {
         "name": "DORD",
         "meaning": "Department Of Redundancy Department"
     },
     {
-        "name": "DQMOT",
-        "meaning": "Don't Quote Me On This"
-    },
-    {
-        "name": "DQYDJ",
-        "meaning": "Don't Quit Your Day Job"
-    },
-    {
-        "name": "DRIB",
-        "meaning": "Don't Read If Busy"
-    },
-    {
         "name": "DTRT",
         "meaning": "Do The Right Thing"
-    },
-    {
-        "name": "DUNA",
-        "meaning": "Don't Use No Acronyms"
-    },
-    {
-        "name": "DUSL",
-        "meaning": "Do You Scream Loud?"
-    },
-    {
-        "name": "DUST",
-        "meaning": "Did You See That?"
-    },
-    {
-        "name": "DWBH",
-        "meaning": "Don't Worry Be Happy"
     },
     {
         "name": "DWWWI",
@@ -876,40 +580,12 @@
         "meaning": "Dude You Fascinate Me"
     },
     {
-        "name": "DYHAB",
-        "meaning": "Do You Have A Boyfriend?"
-    },
-    {
         "name": "DYHAG",
         "meaning": "Do You Have A Girlfriend"
     },
     {
-        "name": "DYJHIW",
-        "meaning": "Don't You Just Hate It When..."
-    },
-    {
-        "name": "DYLI",
-        "meaning": "Do You Love It?"
-    },
-    {
-        "name": "DYOFDW",
-        "meaning": "Do Your Own F***ing Dirty Work"
-    },
-    {
-        "name": "EABOS",
-        "meaning": "Eat A Bag Of Sh**"
-    },
-    {
         "name": "EADD",
         "meaning": "Entrepreneurial Attention Deficit Disorder"
-    },
-    {
-        "name": "EAPFS",
-        "meaning": "Everything About Pittsburgh F***ing Sucks"
-    },
-    {
-        "name": "EGOT",
-        "meaning": "Emmy, Grammy, Oscar, Tony"
     },
     {
         "name": "ELOL",
@@ -920,14 +596,6 @@
         "meaning": "Early Morning Business Meeting"
     },
     {
-        "name": "EMDR",
-        "meaning": "Eye Movement Desensitization & Reprocessing"
-    },
-    {
-        "name": "EMEA",
-        "meaning": "Europe, the Middle East, and Africa"
-    },
-    {
         "name": "EMFBI",
         "meaning": "Excuse Me For Butting In"
     },
@@ -936,44 +604,8 @@
         "meaning": "Excuse Me For Jumping In"
     },
     {
-        "name": "EMRTW",
-        "meaning": "Evil Monkey's Rule The World"
-    },
-    {
-        "name": "EMSG",
-        "meaning": "E-Mail Message"
-    },
-    {
-        "name": "ESAD",
-        "meaning": "Eat Sh** And Die"
-    },
-    {
         "name": "ESEMED",
         "meaning": "Every Second Every Minute Every Day"
-    },
-    {
-        "name": "ESFOAD",
-        "meaning": "Eat Sh** F***Off And Die"
-    },
-    {
-        "name": "ESMF",
-        "meaning": "Eat Sh** Mother F***er"
-    },
-    {
-        "name": "ETLA",
-        "meaning": "ETLA Extended Three-Letter Acronym (that is, an FLA)"
-    },
-    {
-        "name": "EYFD",
-        "meaning": "Enjoy Your F***ing Day"
-    },
-    {
-        "name": "FAANGs",
-        "meaning": "a.k.a. the FAANGs"
-    },
-    {
-        "name": "FAITH",
-        "meaning": "Forsaking All, I Trust In Him"
     },
     {
         "name": "FAQL",
@@ -1000,72 +632,16 @@
         "meaning": "Facebook Obsessive Compulsive Disorder"
     },
     {
-        "name": "FCFS",
-        "meaning": "First Come, First Served"
-    },
-    {
         "name": "FCOL",
         "meaning": "For Crying Out Loud"
-    },
-    {
-        "name": "FDFF",
-        "meaning": "Falling Down F***ing Funny"
     },
     {
         "name": "FDGB",
         "meaning": "Fall Down Go Boom"
     },
     {
-        "name": "FEAR",
-        "meaning": "Forget Everything And Run, Face Everything And Recover, False Evidence Appearing Real"
-    },
-    {
-        "name": "FGDAI",
-        "meaning": "Fuhgedaboudit -or- Forget About It"
-    },
-    {
-        "name": "FIFO",
-        "meaning": "First In, First Out"
-    },
-    {
-        "name": "FIGJAM",
-        "meaning": "F*** I'm Good Just Ask Me"
-    },
-    {
-        "name": "FIGMO",
-        "meaning": "F*** It Got My Orders"
-    },
-    {
-        "name": "FIGS",
-        "meaning": "French, Italian, German, Spanish"
-    },
-    {
-        "name": "FIIK",
-        "meaning": "F*** If I Know"
-    },
-    {
-        "name": "FILF",
-        "meaning": "Father I'd Like to F***"
-    },
-    {
         "name": "FILO",
         "meaning": "First In Last Out"
-    },
-    {
-        "name": "FILTH",
-        "meaning": "Failed In London, Try Hong Kong"
-    },
-    {
-        "name": "FINE",
-        "meaning": "F***ed up, Insecure, Neurotic, Emotional -or- F*** It Never Ends"
-    },
-    {
-        "name": "FIRE",
-        "meaning": "Financial Independence, Retire Early"
-    },
-    {
-        "name": "FISH",
-        "meaning": "First in, Still Here"
     },
     {
         "name": "FITB",
@@ -1080,24 +656,12 @@
         "meaning": "First Lady Of The United States"
     },
     {
-        "name": "FLUID",
-        "meaning": "F***ing Look it Up, I Did"
-    },
-    {
         "name": "FMOT",
         "meaning": "Follow Me On Twitter"
     },
     {
-        "name": "FOAD",
-        "meaning": "F*** Off And Die"
-    },
-    {
         "name": "FOAF",
         "meaning": "Friend Of A Friend"
-    },
-    {
-        "name": "FOAG",
-        "meaning": "F*** Off And Google"
     },
     {
         "name": "FOFL",
@@ -1106,10 +670,6 @@
     {
         "name": "FOGC",
         "meaning": "Fear Of Getting Caught"
-    },
-    {
-        "name": "FOLO",
-        "meaning": "Fear Of Losing Out -or- Fake pOLO shirt -or- Families Of Loved Ones"
     },
     {
         "name": "FOMC",
@@ -1128,20 +688,8 @@
         "meaning": "Fear Of Missing Out on Football"
     },
     {
-        "name": "FOOT",
-        "meaning": "F*** Off Over There -or- go away"
-    },
-    {
-        "name": "FORD",
-        "meaning": "Found On Road Dead, Fixed Or Repaired Daily, F***ed Over Rebuilt Dodge"
-    },
-    {
         "name": "FOUO",
         "meaning": "For Official Use Only"
-    },
-    {
-        "name": "FRED",
-        "meaning": "F***ing Ridiculous Electronic Device"
     },
     {
         "name": "FRZN",
@@ -1172,60 +720,20 @@
         "meaning": "From The Bottom Of My Heart"
     },
     {
-        "name": "FTFOI",
-        "meaning": "For The Fun Of It -or- For The F*** Of It"
-    },
-    {
-        "name": "FTRF",
-        "meaning": "F*** That's Really Funny"
-    },
-    {
         "name": "FTTB",
         "meaning": "For The Time Being"
-    },
-    {
-        "name": "FUBAR",
-        "meaning": "F***ed Up Beyond All Recognition (or Repair)"
-    },
-    {
-        "name": "FUBB",
-        "meaning": "F***ed Up Beyond Belief"
-    },
-    {
-        "name": "FUJIMO",
-        "meaning": "F*** You Jack I'm Movin' On"
     },
     {
         "name": "FURTB",
         "meaning": "Filled Up and Ready To Burst"
     },
     {
-        "name": "FWIW",
-        "meaning": "For What It's Worth -or- Forgot Where I Was"
-    },
-    {
-        "name": "FWOT",
-        "meaning": "F***ing Waste Of Time"
-    },
-    {
         "name": "FYEO",
         "meaning": "For Your Eyes Only"
     },
     {
-        "name": "FYIFV",
-        "meaning": "F*** You I'm Fully Vested"
-    },
-    {
         "name": "FYLTGE",
         "meaning": "From Your Lips To Gods Ears"
-    },
-    {
-        "name": "GAFA",
-        "meaning": "Google, Apple, Facebook, Amazon"
-    },
-    {
-        "name": "GAFL",
-        "meaning": "Get A F***ing Life"
     },
     {
         "name": "GAFYK",
@@ -1272,36 +780,12 @@
         "meaning": "Good For The Universe"
     },
     {
-        "name": "GFYMF",
-        "meaning": "Go F*** Yourself Mother F***er"
-    },
-    {
         "name": "GGOH",
         "meaning": "Gotta Get Out of Here"
     },
     {
-        "name": "GGPBL",
-        "meaning": "Gotta Go, Pacemaker Battery Low"
-    },
-    {
-        "name": "GIDK",
-        "meaning": "Gee I Don't Know"
-    },
-    {
-        "name": "GIGO",
-        "meaning": "Garbage In, Garbage Out"
-    },
-    {
-        "name": "GILF",
-        "meaning": "Grandmother I'd Like to F***"
-    },
-    {
         "name": "GIST",
         "meaning": "Great Ideas for Starting Things"
-    },
-    {
-        "name": "GIWIST",
-        "meaning": "Gee, I Wish I'd Said That"
     },
     {
         "name": "GLAWD",
@@ -1318,10 +802,6 @@
     {
         "name": "GMAB",
         "meaning": "Give Me A Break"
-    },
-    {
-        "name": "GMAFB",
-        "meaning": "Give Me A F***ing Break"
     },
     {
         "name": "GMILY",
@@ -1348,16 +828,8 @@
         "meaning": "Greatest Of All Time"
     },
     {
-        "name": "GOLF",
-        "meaning": "Grateful Of Lovely Family -or- Friends"
-    },
-    {
         "name": "GOMB",
         "meaning": "Get Off My Back"
-    },
-    {
-        "name": "GOSPEL",
-        "meaning": "God's Only Son Provides Eternal Life"
     },
     {
         "name": "GOWI",
@@ -1370,14 +842,6 @@
     {
         "name": "GPOY",
         "meaning": "Gratuitous Picture Of Yourself"
-    },
-    {
-        "name": "GQMF",
-        "meaning": "Gentleman's Quarterly Mother F***er"
-    },
-    {
-        "name": "GRACE",
-        "meaning": "God's Riches At Christ's Expense"
     },
     {
         "name": "GRAS",
@@ -1402,14 +866,6 @@
     {
         "name": "GSTG",
         "meaning": "Get Set To Go"
-    },
-    {
-        "name": "GTFO",
-        "meaning": "Get The F*** Out"
-    },
-    {
-        "name": "GTFOOH",
-        "meaning": "Get The F*** Out Of Here"
     },
     {
         "name": "GTGB",
@@ -1468,40 +924,12 @@
         "meaning": "Happy Birthday To You"
     },
     {
-        "name": "HDGFS",
-        "meaning": "How Does Get F***ed Sound?"
-    },
-    {
-        "name": "HENRY",
-        "meaning": "High Earner, Not Rich Yet"
-    },
-    {
         "name": "HHIS",
         "meaning": "Hanging Head In Shame"
     },
     {
-        "name": "HHOJ",
-        "meaning": "Ha Ha, Only Joking"
-    },
-    {
-        "name": "HHOK",
-        "meaning": "Ha Ha, Only Kidding"
-    },
-    {
-        "name": "HHOS",
-        "meaning": "Ha Ha, Only Serious"
-    },
-    {
         "name": "HHTYAY",
         "meaning": "Happy Holidays To You And Yours"
-    },
-    {
-        "name": "HIOOC",
-        "meaning": "Help, I'm Out Of Coffee"
-    },
-    {
-        "name": "HIPPO",
-        "meaning": "Higher Income People's Personal Opinions"
     },
     {
         "name": "HITAKS",
@@ -1510,10 +938,6 @@
     {
         "name": "HMOT",
         "meaning": "Hit Me On Twitter"
-    },
-    {
-        "name": "HNTI",
-        "meaning": "How Nice That/This Is"
     },
     {
         "name": "HNTW",
@@ -1528,10 +952,6 @@
         "meaning": "HOllywood HAcker"
     },
     {
-        "name": "HOIC",
-        "meaning": "Hold On, I'm Coming"
-    },
-    {
         "name": "HOYEW",
         "meaning": "Hanging On Your Every Word"
     },
@@ -1542,14 +962,6 @@
     {
         "name": "HRCN",
         "meaning": "it means hurricane"
-    },
-    {
-        "name": "HSAY",
-        "meaning": "How Single Are You?"
-    },
-    {
-        "name": "HSIAB",
-        "meaning": "Haven't Seen It All Before"
     },
     {
         "name": "HSIK",
@@ -1576,10 +988,6 @@
         "meaning": "Here We Go Again"
     },
     {
-        "name": "IAITS",
-        "meaning": "It's All In The Subject"
-    },
-    {
         "name": "IANAC",
         "meaning": "I Am Not A Crook"
     },
@@ -1596,14 +1004,6 @@
         "meaning": "I Am Your Master"
     },
     {
-        "name": "IBGYBG",
-        "meaning": "I'll Be Gone, You'll Be Gone"
-    },
-    {
-        "name": "IBRB",
-        "meaning": "I'll Be Right Back"
-    },
-    {
         "name": "IBTD",
         "meaning": "I Beg To Differ"
     },
@@ -1616,68 +1016,20 @@
         "meaning": "I Could Be Wrong"
     },
     {
-        "name": "ICCL",
-        "meaning": "I Couldn't Care Less"
-    },
-    {
         "name": "ICWUM",
         "meaning": "I See What You Mean"
-    },
-    {
-        "name": "ICYC",
-        "meaning": "In Case You're Curious -or- In Case You Care"
     },
     {
         "name": "ICYMI",
         "meaning": "In Case You Missed It"
     },
     {
-        "name": "IDBI",
-        "meaning": "I Don't Believe It"
-    },
-    {
-        "name": "IDEK",
-        "meaning": "I Don't Even Know"
-    },
-    {
-        "name": "IDEWTK",
-        "meaning": "I Don't Even Want To Know"
-    },
-    {
-        "name": "IDGAF",
-        "meaning": "I Don't Give A F***"
-    },
-    {
-        "name": "IDGHP",
-        "meaning": "I Don't Get Hashtag Phrases"
-    },
-    {
-        "name": "IDGI",
-        "meaning": "I Don't Get It -or- I Don't Get Involved"
-    },
-    {
         "name": "IDIFTL",
         "meaning": "I Did It For The Lulz"
     },
     {
-        "name": "IDKWTD",
-        "meaning": "I Don't Know What To Do"
-    },
-    {
-        "name": "IDKY",
-        "meaning": "I Don't Know You"
-    },
-    {
         "name": "IDNKT",
         "meaning": "I Did Not Know That"
-    },
-    {
-        "name": "IDRK",
-        "meaning": "I Don't Really Know"
-    },
-    {
-        "name": "IDST",
-        "meaning": "I Didn't Say That"
     },
     {
         "name": "IDTA",
@@ -1686,14 +1038,6 @@
     {
         "name": "IDTBBF",
         "meaning": "I Deserve To Be Blown First"
-    },
-    {
-        "name": "IDTS",
-        "meaning": "I Don't Think So"
-    },
-    {
-        "name": "IDWTUB",
-        "meaning": "I Don't Want To Upset You But"
     },
     {
         "name": "IFAB",
@@ -1728,28 +1072,8 @@
         "meaning": "I Have No Opinion"
     },
     {
-        "name": "IHTFP",
-        "meaning": "I Have Truly Found Paradise -or- I Hate This F***ing Place"
-    },
-    {
-        "name": "IIIO",
-        "meaning": "Intel Inside, Idiot Outside"
-    },
-    {
         "name": "IIMAD",
         "meaning": "If It Makes Any Difference"
-    },
-    {
-        "name": "IINM",
-        "meaning": "If I'm Not Mistaken"
-    },
-    {
-        "name": "IIRC",
-        "meaning": "If I Remember Correctly -or- If I Recall Correctly"
-    },
-    {
-        "name": "IITM",
-        "meaning": "It's In The Mail"
     },
     {
         "name": "IIWII",
@@ -1772,10 +1096,6 @@
         "meaning": "I Know What You Mean"
     },
     {
-        "name": "ILBCNU",
-        "meaning": "I'll Be Seeing You"
-    },
-    {
         "name": "ILMJ",
         "meaning": "I Love My Job"
     },
@@ -1792,14 +1112,6 @@
         "meaning": "In My Considered Opinion"
     },
     {
-        "name": "IMEZRU",
-        "meaning": "I Am Easy, Are You?"
-    },
-    {
-        "name": "IMFAO",
-        "meaning": "In My F***ing Arrogant Opinion"
-    },
-    {
         "name": "IMGC",
         "meaning": "I Might Get Caught"
     },
@@ -1810,10 +1122,6 @@
     {
         "name": "IMHO",
         "meaning": "In My Humble Opinion"
-    },
-    {
-        "name": "IMJS",
-        "meaning": "I'M Just Saying"
     },
     {
         "name": "IMML",
@@ -1828,64 +1136,20 @@
         "meaning": "In My Own Opinion"
     },
     {
-        "name": "IMOWHA",
-        "meaning": "I Made Out With Him/Her Anyway"
-    },
-    {
         "name": "IMPOV",
         "meaning": "In My Point Of View"
-    },
-    {
-        "name": "IMRU",
-        "meaning": "I Am, Are You?"
-    },
-    {
-        "name": "INBD",
-        "meaning": "It's No Big Deal"
-    },
-    {
-        "name": "INCH",
-        "meaning": "I\u2019m Never Coming Home"
-    },
-    {
-        "name": "INCYDK",
-        "meaning": "In Case You Didn't Know"
-    },
-    {
-        "name": "INMP",
-        "meaning": "It's Not My Problem"
-    },
-    {
-        "name": "INNW",
-        "meaning": "If Not Now When?"
     },
     {
         "name": "INPO",
         "meaning": "In No Particular Order"
     },
     {
-        "name": "IONO",
-        "meaning": "I Don't Know"
-    },
-    {
         "name": "IOTTCO",
         "meaning": "Intuitively Obvious To The Casual Observer"
     },
     {
-        "name": "IOUD",
-        "meaning": "Inside, Outside, Upside Down"
-    },
-    {
-        "name": "IRNCOT",
-        "meaning": "I'd Rather Not Comment On That"
-    },
-    {
         "name": "ISAGN",
         "meaning": "I See A Great Need"
-    },
-    {
-        "name": "ISSOYS",
-        "meaning": "I'm So Sick Of Your Stuff -or- S*** -or- Stories"
     },
     {
         "name": "ISTM",
@@ -1900,24 +1164,8 @@
         "meaning": "I See What You Mean"
     },
     {
-        "name": "ISYALS",
-        "meaning": "I'll Send You A Letter Soon"
-    },
-    {
         "name": "ITFA",
         "meaning": "In The Final Analysis"
-    },
-    {
-        "name": "ITIGBS",
-        "meaning": "I Think I'm Going To Be Sick"
-    },
-    {
-        "name": "ITMA",
-        "meaning": "It's That Man Again"
-    },
-    {
-        "name": "ITMFA",
-        "meaning": "Impeach The Mother F***er Already"
     },
     {
         "name": "ITSFWI",
@@ -1936,10 +1184,6 @@
         "meaning": "It Would Be Nice If"
     },
     {
-        "name": "IWFU",
-        "meaning": "I Wanna F*** You"
-    },
-    {
         "name": "IWFY",
         "meaning": "I Will Follow You"
     },
@@ -1948,20 +1192,8 @@
         "meaning": "I Wish I Was You"
     },
     {
-        "name": "IWTKCR",
-        "meaning": "I'm What The Kids Call Relatable"
-    },
-    {
         "name": "IYAM",
         "meaning": "If You Ask Me"
-    },
-    {
-        "name": "IYDMMA",
-        "meaning": "If You Don't Mind My Asking"
-    },
-    {
-        "name": "IYFD",
-        "meaning": "In Your F***ing Dreams"
     },
     {
         "name": "IYFEG",
@@ -1980,14 +1212,6 @@
         "meaning": "If You See What I Mean"
     },
     {
-        "name": "JAFO",
-        "meaning": "Just Another F***ing Onlooker"
-    },
-    {
-        "name": "JAFS",
-        "meaning": "Just A F***ing Salesman"
-    },
-    {
         "name": "JATA",
         "meaning": "Just Another Twitter App"
     },
@@ -1998,14 +1222,6 @@
     {
         "name": "Jealz",
         "meaning": "Jealous"
-    },
-    {
-        "name": "JHOM",
-        "meaning": "Just Helping out My (Mafia, Mob, Neighbors, etc.)"
-    },
-    {
-        "name": "JHOMF",
-        "meaning": "Just Helping Out My Friend(s)"
     },
     {
         "name": "JOML",
@@ -2036,16 +1252,8 @@
         "meaning": "Just Thinking Of You"
     },
     {
-        "name": "KCCO",
-        "meaning": "Keep Calm & Carry On"
-    },
-    {
         "name": "KHYF",
         "meaning": "Know How You Feel"
-    },
-    {
-        "name": "KIBO",
-        "meaning": "Knowledge In, Bullsh** Out"
     },
     {
         "name": "KITY",
@@ -2072,10 +1280,6 @@
         "meaning": "Keep Up The Good Work"
     },
     {
-        "name": "KWIM",
-        "meaning": "Know What I Mean?"
-    },
-    {
         "name": "KWSTA",
         "meaning": "Kiss With Serious Tongue Action"
     },
@@ -2100,20 +1304,12 @@
         "meaning": "Keep Your Stick On The Ice"
     },
     {
-        "name": "LAFW",
-        "meaning": "Listening (but) Away From Window"
-    },
-    {
         "name": "LAGO",
         "meaning": "Life Always Goes On"
     },
     {
         "name": "LAOJ",
         "meaning": "Laughing At Own Joke"
-    },
-    {
-        "name": "LDTTWA",
-        "meaning": "Let's Do The Time Warp Again"
     },
     {
         "name": "LESM",
@@ -2130,18 +1326,6 @@
     {
         "name": "LGTM",
         "meaning": "Looks Good To Me"
-    },
-    {
-        "name": "LIFO",
-        "meaning": "Last In, First Out"
-    },
-    {
-        "name": "LINS",
-        "meaning": "Laugh, I Nearly Shat"
-    },
-    {
-        "name": "LJBF",
-        "meaning": "Let's Just Be Friends"
     },
     {
         "name": "LKITR",
@@ -2166,10 +1350,6 @@
     {
         "name": "LMHO",
         "meaning": "Laughing My Head Off"
-    },
-    {
-        "name": "LMIRL",
-        "meaning": "Let's Meet In Real Life"
     },
     {
         "name": "LMOA",
@@ -2216,10 +1396,6 @@
         "meaning": "Love Of My Life"
     },
     {
-        "name": "LONH",
-        "meaning": "Lights On, Nobody Home"
-    },
-    {
         "name": "LOOL",
         "meaning": "Laughing Outrageously Out Loud"
     },
@@ -2228,20 +1404,8 @@
         "meaning": "Laughing Out Of My Mind"
     },
     {
-        "name": "LOPSOD",
-        "meaning": "Long On Promises, Short On Delivery"
-    },
-    {
-        "name": "LORE",
-        "meaning": "Learn Once, Repeat Everywhere"
-    },
-    {
         "name": "LOVE",
         "meaning": "Lots Of Voluntary Effort"
-    },
-    {
-        "name": "LPOS",
-        "meaning": "Lazy Piece Of Sh**"
     },
     {
         "name": "LSHMBH",
@@ -2252,16 +1416,8 @@
         "meaning": "Laughing Too Hard To Type"
     },
     {
-        "name": "LTIC",
-        "meaning": "Laughing 'Til I Cry"
-    },
-    {
         "name": "LTNS",
         "meaning": "Long Time No See"
-    },
-    {
-        "name": "LTNT",
-        "meaning": "Long Time, No Type"
     },
     {
         "name": "LTOTD",
@@ -2312,14 +1468,6 @@
         "meaning": "Love You Later Bye"
     },
     {
-        "name": "LYMI",
-        "meaning": "Love You, Mean It"
-    },
-    {
-        "name": "LYSYB",
-        "meaning": "Love Ya, See Ya, Bye"
-    },
-    {
         "name": "LYWAMH",
         "meaning": "Love You With All My Heart"
     },
@@ -2334,10 +1482,6 @@
     {
         "name": "MAYA",
         "meaning": "Most Advanced Yet Accessible"
-    },
-    {
-        "name": "MBRFN",
-        "meaning": "Must Be Real F***ing Nice"
     },
     {
         "name": "MDMS",
@@ -2360,24 +1504,12 @@
         "meaning": "My Fans Better Than Yours"
     },
     {
-        "name": "MFIC",
-        "meaning": "Mother F***er In Charge"
-    },
-    {
         "name": "MFRC",
         "meaning": "My Fingers Are Crossed"
     },
     {
-        "name": "MFWIC",
-        "meaning": "Mother F***er Who's In Charge"
-    },
-    {
         "name": "MHBFY",
         "meaning": "My Heart Bleeds For You"
-    },
-    {
-        "name": "MHOTY",
-        "meaning": "My Hat's Off To You"
     },
     {
         "name": "MHYF",
@@ -2386,10 +1518,6 @@
     {
         "name": "MIHAP",
         "meaning": "May I Have Your Attention Please"
-    },
-    {
-        "name": "MILF",
-        "meaning": "Mother I'd Like to F***"
     },
     {
         "name": "MINS",
@@ -2424,10 +1552,6 @@
         "meaning": "Mail Me Your Thoughts"
     },
     {
-        "name": "MOFO",
-        "meaning": "Mother F***er"
-    },
-    {
         "name": "MOMPL",
         "meaning": "MOMent PLease"
     },
@@ -2444,20 +1568,12 @@
         "meaning": "Message Of The Day"
     },
     {
-        "name": "MPFB",
-        "meaning": "My Personal F*** Buddy"
-    },
-    {
         "name": "MRPH",
         "meaning": "Mail the Right Place for Help"
     },
     {
         "name": "MSMD",
         "meaning": "Monkey See Monkey Do"
-    },
-    {
-        "name": "MSNUW",
-        "meaning": "Mini-Skirt No UnderWear"
     },
     {
         "name": "MSTA",
@@ -2496,10 +1612,6 @@
         "meaning": "Miss You Like Crazy"
     },
     {
-        "name": "MUSL",
-        "meaning": "Missing You Sh** Loads"
-    },
-    {
         "name": "MUSM",
         "meaning": "Miss You So Much"
     },
@@ -2524,16 +1636,8 @@
         "meaning": "Not A Good Idea"
     },
     {
-        "name": "NASCAR",
-        "meaning": "Non-Athletic Sport Centered Around Rednecks"
-    },
-    {
         "name": "NATC",
         "meaning": "Not A Text Conversation"
-    },
-    {
-        "name": "NATO",
-        "meaning": "No Action, Talk Only"
     },
     {
         "name": "NAVY",
@@ -2560,32 +1664,16 @@
         "meaning": "New Comic Book Day"
     },
     {
-        "name": "NEET",
-        "meaning": "Not currently Engaged in Employment, Education, or Training"
-    },
-    {
         "name": "NESEC",
         "meaning": "Any Second"
-    },
-    {
-        "name": "NEWS",
-        "meaning": "North, East, West, South"
     },
     {
         "name": "NFBSK",
         "meaning": "Not For British School Kids"
     },
     {
-        "name": "NHOH",
-        "meaning": "Never Heard Of Him/Her"
-    },
-    {
         "name": "NICE",
         "meaning": "Nonsense In Crappy Existence"
-    },
-    {
-        "name": "NIDL",
-        "meaning": "Not Interested, DisLike"
     },
     {
         "name": "NIMBY",
@@ -2604,24 +1692,12 @@
         "meaning": "Never In A Million Years"
     },
     {
-        "name": "NINJA",
-        "meaning": "No Income, No Job nor Assets"
-    },
-    {
-        "name": "NINO",
-        "meaning": "Nothing In, Nothing Out -or- No Input, No Output"
-    },
-    {
         "name": "NISM",
         "meaning": "Need I Say More"
     },
     {
         "name": "NITL",
         "meaning": "Not In This Lifetime"
-    },
-    {
-        "name": "NIYWFD",
-        "meaning": "Not In Your Wildest F***ing Dreams"
     },
     {
         "name": "NJAPF",
@@ -2632,16 +1708,8 @@
         "meaning": "Not Likely To Be Run Over"
     },
     {
-        "name": "NMHJC",
-        "meaning": "Not Much Here, Just Chilling"
-    },
-    {
         "name": "NMTE",
         "meaning": "Now More Than Ever"
-    },
-    {
-        "name": "NNWW",
-        "meaning": "Nudge, Nudge, Wink, Wink"
     },
     {
         "name": "NOFI",
@@ -2662,10 +1730,6 @@
     {
         "name": "NSTLC",
         "meaning": "Need Some Tender Loving Care"
-    },
-    {
-        "name": "NTABOM",
-        "meaning": "Now That's A Bunch Of Malarkey"
     },
     {
         "name": "NTBM",
@@ -2694,10 +1758,6 @@
     {
         "name": "NUFF",
         "meaning": "Enough"
-    },
-    {
-        "name": "NVNG",
-        "meaning": "Nothing Ventured, Nothing Gained"
     },
     {
         "name": "NWAL",
@@ -2732,36 +1792,12 @@
         "meaning": "Oh I Remember What I Said"
     },
     {
-        "name": "OLLI",
-        "meaning": "One Life, Live It"
-    },
-    {
         "name": "OMDB",
         "meaning": "Over My Dead Body"
     },
     {
-        "name": "OMIK",
-        "meaning": "Open Mouth, Insert Keyboard"
-    },
-    {
         "name": "OMWT",
         "meaning": "On My Way Too"
-    },
-    {
-        "name": "ONID",
-        "meaning": "Oh No I Didn't"
-    },
-    {
-        "name": "ONNA",
-        "meaning": "Oh No, Not Again"
-    },
-    {
-        "name": "ONNTA",
-        "meaning": "Oh No, Not This Again"
-    },
-    {
-        "name": "ONUD",
-        "meaning": "Oh No You Didn't"
     },
     {
         "name": "OOAK",
@@ -2770,10 +1806,6 @@
     {
         "name": "OOMF",
         "meaning": "One Of My Followers"
-    },
-    {
-        "name": "OOTB",
-        "meaning": "Out Of The Box -or- Out Of The Blue"
     },
     {
         "name": "OOTC",
@@ -2790,10 +1822,6 @@
     {
         "name": "OOYF",
         "meaning": "One Of Your Followers"
-    },
-    {
-        "name": "OSIF",
-        "meaning": "Oh Sh** I Forgot"
     },
     {
         "name": "OTOH",
@@ -2828,10 +1856,6 @@
         "meaning": "Play By EMail"
     },
     {
-        "name": "PCMCIA",
-        "meaning": "People Can't Memorize Computer Industry Acronyms"
-    },
-    {
         "name": "PEBCAC",
         "meaning": "Problem Exists Between Chair And Computer"
     },
@@ -2852,14 +1876,6 @@
         "meaning": "Problem Is Between Keyboard And Chair"
     },
     {
-        "name": "PICNIC",
-        "meaning": "Problem In Chair, Not In Computer"
-    },
-    {
-        "name": "PIMP",
-        "meaning": "Peeing In My Pants -or- Protection, Instruction, Management of Prostitutes"
-    },
-    {
         "name": "PIMPL",
         "meaning": "Peeing In My Pants Laughing"
     },
@@ -2872,10 +1888,6 @@
         "meaning": "Parents Looking Over Shoulder"
     },
     {
-        "name": "PLUR",
-        "meaning": "Peace, Love, Unity, Respect"
-    },
-    {
         "name": "PMBI",
         "meaning": "Pardon My Butting In"
     },
@@ -2884,16 +1896,8 @@
         "meaning": "Pardon Me For Jumping In"
     },
     {
-        "name": "PMHT",
-        "meaning": "Pardon My HashTag a.k.a. #PMHT"
-    },
-    {
         "name": "PMJI",
         "meaning": "Pardon My Jumping In"
-    },
-    {
-        "name": "PNCAH",
-        "meaning": "Please, No Cursing Allowed Here"
     },
     {
         "name": "POAHF",
@@ -2912,16 +1916,8 @@
         "meaning": "Person Of No Account"
     },
     {
-        "name": "POSC",
-        "meaning": "Piece Of Sh** Computer"
-    },
-    {
         "name": "POTATO",
         "meaning": "Person Over Thirty Acting Twenty One"
-    },
-    {
-        "name": "POTS",
-        "meaning": "Plain Old Telephone System -or- Pat On The Shoulder"
     },
     {
         "name": "POTUS",
@@ -2960,10 +1956,6 @@
         "meaning": "Parent Watching Over My Shoulder"
     },
     {
-        "name": "PYFB",
-        "meaning": "Pay Your F***ing Bill"
-    },
-    {
         "name": "PYOP",
         "meaning": "Pray Your Own Prayer"
     },
@@ -2978,10 +1970,6 @@
     {
         "name": "QOTP",
         "meaning": "Quote Of The Post"
-    },
-    {
-        "name": "RAEBNC",
-        "meaning": "Read And Enjoyed, But No Comment"
     },
     {
         "name": "RAFO",
@@ -3006,10 +1994,6 @@
     {
         "name": "RHIP",
         "meaning": "Rank Has Its Privileges"
-    },
-    {
-        "name": "RIMJS",
-        "meaning": "Really I'M Just Saying"
     },
     {
         "name": "RINO",
@@ -3068,10 +2052,6 @@
         "meaning": "Right On The Money"
     },
     {
-        "name": "RSVP",
-        "meaning": "Repondez S'il Vous Plait"
-    },
-    {
         "name": "RTBM",
         "meaning": "Read The Bloody Manual"
     },
@@ -3084,52 +2064,12 @@
         "meaning": "Read The FAQ"
     },
     {
-        "name": "RTFF",
-        "meaning": "Read The F***ing FAQ"
-    },
-    {
-        "name": "RTFM",
-        "meaning": "Read The F***ing Manual"
-    },
-    {
-        "name": "RTFQ",
-        "meaning": "Read The F***ing Question"
-    },
-    {
-        "name": "RTHX",
-        "meaning": "Re-tweet Thanks"
-    },
-    {
         "name": "RTSM",
         "meaning": "Read The Silly Manual"
     },
     {
         "name": "RTTSD",
         "meaning": "Right Thing To Say Dude"
-    },
-    {
-        "name": "RTWFQ",
-        "meaning": "Read The Whole F***ing Question"
-    },
-    {
-        "name": "RUFKM",
-        "meaning": "Are You F***ing Kidding Me?"
-    },
-    {
-        "name": "RUMORF",
-        "meaning": "Are You Male OR Female?"
-    },
-    {
-        "name": "RUNTS",
-        "meaning": "Are You Nuts?"
-    },
-    {
-        "name": "RUOK",
-        "meaning": "Are You OK?"
-    },
-    {
-        "name": "RUSOS",
-        "meaning": "Are You SOS (in trouble)?"
     },
     {
         "name": "RYFM",
@@ -3148,16 +2088,8 @@
         "meaning": "Surpassing All Previous Foul Ups"
     },
     {
-        "name": "SBTA",
-        "meaning": "Sorry, Being Thick Again"
-    },
-    {
         "name": "SBUG",
         "meaning": "Small Bald Unaudacious Goal"
-    },
-    {
-        "name": "SCNR",
-        "meaning": "Sorry, Could Not Resist"
     },
     {
         "name": "SCOTUS",
@@ -3166,10 +2098,6 @@
     {
         "name": "SDFS",
         "meaning": "Second Day First Show"
-    },
-    {
-        "name": "SERPT",
-        "meaning": "Soul Eater Role-Playing Team"
     },
     {
         "name": "SETE",
@@ -3182,10 +2110,6 @@
     {
         "name": "SFETE",
         "meaning": "Smiling From Ear To Ear"
-    },
-    {
-        "name": "SFTTM",
-        "meaning": "Stop F***ing Talking To Me"
     },
     {
         "name": "SFTW",
@@ -3208,10 +2132,6 @@
         "meaning": "See How Much I Love You"
     },
     {
-        "name": "SHTF",
-        "meaning": "Sh** Hits The Fan"
-    },
-    {
         "name": "SHXP",
         "meaning": "Shakespeare"
     },
@@ -3222,14 +2142,6 @@
     {
         "name": "SICS",
         "meaning": "Sitting In Chair Snickering"
-    },
-    {
-        "name": "SIRD",
-        "meaning": "Sorry, Incorrect Recipient, Disregard"
-    },
-    {
-        "name": "SITCOM",
-        "meaning": "Single Income, Two Children, Oppressive Mortgage"
     },
     {
         "name": "SITD",
@@ -3248,14 +2160,6 @@
         "meaning": "School Kills Your Entertainment"
     },
     {
-        "name": "SLAN",
-        "meaning": "it means: goodbye"
-    },
-    {
-        "name": "SLAP",
-        "meaning": "Sounds Like A Plan -or- Speak Like A Person"
-    },
-    {
         "name": "SLAW",
         "meaning": "Sounds Like A Winner"
     },
@@ -3272,14 +2176,6 @@
         "meaning": "Send Me An Instant Message"
     },
     {
-        "name": "SMART",
-        "meaning": "Self-Monitoring Analysis and Reporting Technology"
-    },
-    {
-        "name": "SMEM",
-        "meaning": "Send Me E-Mail"
-    },
-    {
         "name": "SMHD",
         "meaning": "Shaking My Head in Disbelief"
     },
@@ -3294,10 +2190,6 @@
     {
         "name": "SMOP",
         "meaning": "Small Matter of Programming"
-    },
-    {
-        "name": "SNAFU",
-        "meaning": "Situation Normal, All F***ed Up"
     },
     {
         "name": "SNAG",
@@ -3356,10 +2248,6 @@
         "meaning": "Someone Snapchat"
     },
     {
-        "name": "SOTMG",
-        "meaning": "Short On Time, Must Go"
-    },
-    {
         "name": "SPAT",
         "meaning": "Some People Are Trains"
     },
@@ -3380,20 +2268,8 @@
         "meaning": "Social Return On Investment"
     },
     {
-        "name": "SSDD",
-        "meaning": "Same Sh** Different Day"
-    },
-    {
-        "name": "SSEWBA",
-        "meaning": "Someday Soon, Everything Will Be Acronyms"
-    },
-    {
         "name": "SSIA",
         "meaning": "Subject Says It All"
-    },
-    {
-        "name": "STARS",
-        "meaning": "Sorry, Thank you, Action, Recover, Share"
     },
     {
         "name": "STBH",
@@ -3406,18 +2282,6 @@
     {
         "name": "STBY",
         "meaning": "Sucks To Be You"
-    },
-    {
-        "name": "STEM",
-        "meaning": "Science, Technology, Engineering, Math"
-    },
-    {
-        "name": "STFU",
-        "meaning": "Shut The F*** Up"
-    },
-    {
-        "name": "STFW",
-        "meaning": "Search The F***ing Web"
     },
     {
         "name": "STML",
@@ -3436,40 +2300,16 @@
         "meaning": "Speak To You Soon"
     },
     {
-        "name": "SUAC",
-        "meaning": "Sh** Up A Creek"
-    },
-    {
         "name": "SUAKM",
         "meaning": "Shut Up And Kiss Me"
-    },
-    {
-        "name": "SUFI",
-        "meaning": "Super Finger -or- Shut Up F***ing Imbecile"
     },
     {
         "name": "SUYF",
         "meaning": "Shut Up You Fool"
     },
     {
-        "name": "SWAK",
-        "meaning": "Sealed (or Sent) With A Kiss"
-    },
-    {
         "name": "SWALK",
         "meaning": "Sealed With A Loving Kiss"
-    },
-    {
-        "name": "SWDYT",
-        "meaning": "So What Do You Think?"
-    },
-    {
-        "name": "SWIM",
-        "meaning": "See What I Mean?"
-    },
-    {
-        "name": "SWIS",
-        "meaning": "See What I'm Saying"
     },
     {
         "name": "SWIT",
@@ -3478,38 +2318,6 @@
     {
         "name": "SWMBO",
         "meaning": "She Who Must Be Obeyed"
-    },
-    {
-        "name": "SWOT",
-        "meaning": "Strengths, Weaknesses, Opportunities, Threats"
-    },
-    {
-        "name": "SWYP",
-        "meaning": "So What\u2019s Your Problem?"
-    },
-    {
-        "name": "TABOM",
-        "meaning": "That's A Bunch Of Malarkey"
-    },
-    {
-        "name": "TAFN",
-        "meaning": "That's All For Now"
-    },
-    {
-        "name": "TAKS",
-        "meaning": "That's A Knee Slapper"
-    },
-    {
-        "name": "TANJ",
-        "meaning": "There Ain't No Justice"
-    },
-    {
-        "name": "TANSIT",
-        "meaning": "There's A New Sheriff In Town"
-    },
-    {
-        "name": "TARFU",
-        "meaning": "Things Are Really F***ed Up"
     },
     {
         "name": "TAYN",
@@ -3532,24 +2340,12 @@
         "meaning": "Take Care Of Yourself"
     },
     {
-        "name": "TDTM",
-        "meaning": "Talk Dirty To Me -or- Text Dirty To Me"
-    },
-    {
         "name": "TEOG",
         "meaning": "The Edge Of Glory"
     },
     {
-        "name": "TFDS",
-        "meaning": "That's For Darn Sure"
-    },
-    {
         "name": "TFLMS",
         "meaning": "Thanks For Letting Me Share"
-    },
-    {
-        "name": "TFMIU",
-        "meaning": "The F***ing Manual Is Unreadable"
     },
     {
         "name": "TFTC",
@@ -3564,18 +2360,6 @@
         "meaning": "Thanks For The Update"
     },
     {
-        "name": "TFYS",
-        "meaning": "The F*** You Say"
-    },
-    {
-        "name": "TGAL",
-        "meaning": "Think Globally, Act Locally"
-    },
-    {
-        "name": "TGGTG",
-        "meaning": "That Girl/Guy has Got To Go"
-    },
-    {
         "name": "TGIC",
         "meaning": "This Girl Is Crazy"
     },
@@ -3588,14 +2372,6 @@
         "meaning": "Think I Am In Love"
     },
     {
-        "name": "TIGAS",
-        "meaning": "Think I Give A Sh**"
-    },
-    {
-        "name": "TILF",
-        "meaning": "Teacher I'd Like to F***"
-    },
-    {
         "name": "TILII",
         "meaning": "Tell It Like It Is"
     },
@@ -3606,10 +2382,6 @@
     {
         "name": "TIMITI",
         "meaning": "Try It Measure It Tweak It"
-    },
-    {
-        "name": "TINGLE",
-        "meaning": "it means: Taken & Single"
     },
     {
         "name": "TINWIS",
@@ -3644,10 +2416,6 @@
         "meaning": "The List Goes On"
     },
     {
-        "name": "TLITBC",
-        "meaning": "That's Life In The Big City"
-    },
-    {
         "name": "TLTR",
         "meaning": "Too Long To Read"
     },
@@ -3656,16 +2424,8 @@
         "meaning": "To Make A Long Story Short"
     },
     {
-        "name": "TMSGO",
-        "meaning": "Too Much Sh** Going On"
-    },
-    {
         "name": "TMTT",
         "meaning": "Too Much To Type"
-    },
-    {
-        "name": "TNLN",
-        "meaning": "Took Nothing, Left Nothing"
     },
     {
         "name": "TNTL",
@@ -3720,18 +2480,6 @@
         "meaning": "This Says It All"
     },
     {
-        "name": "TSIF",
-        "meaning": "Thank Science It's Friday"
-    },
-    {
-        "name": "TSNF",
-        "meaning": "That's So Not Fair"
-    },
-    {
-        "name": "TSTB",
-        "meaning": "The Sooner, The Better"
-    },
-    {
         "name": "TTBOMK",
         "meaning": "To The Best Of My Knowledge"
     },
@@ -3760,14 +2508,6 @@
         "meaning": "Talk To You Later"
     },
     {
-        "name": "TTYIAF",
-        "meaning": "Talk/Type To You In A Few"
-    },
-    {
-        "name": "TTYL",
-        "meaning": "Talk To You Later -or- Type To You Later"
-    },
-    {
         "name": "TTYOB",
         "meaning": "Tend To Your Own Business"
     },
@@ -3784,32 +2524,12 @@
         "meaning": "Twitter Wars"
     },
     {
-        "name": "TWHAB",
-        "meaning": "This Won't Hurt A Bit"
-    },
-    {
         "name": "TWHE",
         "meaning": "The Walls Have Ears"
     },
     {
         "name": "TWIMC",
         "meaning": "To Whom It May Concern"
-    },
-    {
-        "name": "TWIT",
-        "meaning": "That's What I Thought"
-    },
-    {
-        "name": "TWITA",
-        "meaning": "That's What I'm Talking About"
-    },
-    {
-        "name": "TWIWI",
-        "meaning": "That Was Interesting, Wasn't It?"
-    },
-    {
-        "name": "TWSS",
-        "meaning": "That's What She Said"
     },
     {
         "name": "TWTR",
@@ -3834,10 +2554,6 @@
     {
         "name": "UCWAP",
         "meaning": "Up a Creek Without A Paddle"
-    },
-    {
-        "name": "UFUF",
-        "meaning": "You F***, You Fix"
     },
     {
         "name": "UGTR",
@@ -3868,28 +2584,12 @@
         "meaning": "You Are Wise"
     },
     {
-        "name": "USCWAP",
-        "meaning": "Up Sh** Creek Without A Paddle"
-    },
-    {
         "name": "UWIWU",
         "meaning": "You Wish I Was You"
     },
     {
         "name": "VBMG",
         "meaning": "Very Big Mischievous Grin"
-    },
-    {
-        "name": "VCDA",
-        "meaning": "Vaya Con Dios, Amigo"
-    },
-    {
-        "name": "VILF",
-        "meaning": "Voter I'd Like to F***"
-    },
-    {
-        "name": "VRBS",
-        "meaning": "Virtual Reality Bull Sh**"
     },
     {
         "name": "WABI",
@@ -3916,16 +2616,8 @@
         "meaning": "When All Else Fails"
     },
     {
-        "name": "WAFM",
-        "meaning": "What A F***ing Mess"
-    },
-    {
         "name": "WAFS",
         "meaning": "Warm And Fuzzies"
-    },
-    {
-        "name": "WAFU",
-        "meaning": "What A F*** Up"
     },
     {
         "name": "WAGS",
@@ -3948,80 +2640,12 @@
         "meaning": "What A Wonderful Idea"
     },
     {
-        "name": "WAYD",
-        "meaning": "What Are You Doing?"
-    },
-    {
-        "name": "WAYN",
-        "meaning": "Where Are You Now?"
-    },
-    {
         "name": "WBOS",
         "meaning": "We Build Our Society"
     },
     {
-        "name": "WCMTSU",
-        "meaning": "We Can't Make This Sh** Up"
-    },
-    {
         "name": "WDDD",
         "meaning": "Woopie Doo Da Dey"
-    },
-    {
-        "name": "WDILY",
-        "meaning": "Why Do I Love You?"
-    },
-    {
-        "name": "WDYJS",
-        "meaning": "What Did You Just Say?"
-    },
-    {
-        "name": "WDYM",
-        "meaning": "What Do You Mean?"
-    },
-    {
-        "name": "WDYMBT",
-        "meaning": "What Do You Mean By That?"
-    },
-    {
-        "name": "WDYS",
-        "meaning": "What Did You Say?"
-    },
-    {
-        "name": "WDYT",
-        "meaning": "What Do You Think?"
-    },
-    {
-        "name": "WETSU",
-        "meaning": "We Eat This Sh** Up"
-    },
-    {
-        "name": "WGAFF",
-        "meaning": "Who Gives A Flying F***"
-    },
-    {
-        "name": "WGMGD",
-        "meaning": "What Get's Measured Get's Done"
-    },
-    {
-        "name": "WHYDTM",
-        "meaning": "What Have You Done To Me?"
-    },
-    {
-        "name": "WIBAMU",
-        "meaning": "Well, I'll Be A Monkey's Uncle"
-    },
-    {
-        "name": "WIBNI",
-        "meaning": "Wouldn't It Be Nice If"
-    },
-    {
-        "name": "WIIFM",
-        "meaning": "What's In It For Me"
-    },
-    {
-        "name": "WIIFY",
-        "meaning": "What's In It For You"
     },
     {
         "name": "WIIWII",
@@ -4076,10 +2700,6 @@
         "meaning": "Where No One Has Gone Before"
     },
     {
-        "name": "WOMBAT",
-        "meaning": "Waste Of Money, Brains And Time"
-    },
-    {
         "name": "WOMW",
         "meaning": "Watch On My Wrist"
     },
@@ -4096,64 +2716,20 @@
         "meaning": "Word Of The Day"
     },
     {
-        "name": "WRUD",
-        "meaning": "What Are You Doing?"
-    },
-    {
-        "name": "WTAS",
-        "meaning": "Wanna Take A Shower?"
-    },
-    {
-        "name": "WTDB",
-        "meaning": "What's The Difference Between"
-    },
-    {
-        "name": "WTFYTT",
-        "meaning": "Who The F*** You Talking To"
-    },
-    {
-        "name": "WTGP",
-        "meaning": "Want To Go Private?"
-    },
-    {
         "name": "WTHOW",
         "meaning": "White Trash Headline Of the Week"
-    },
-    {
-        "name": "WTMC",
-        "meaning": "What The Mother C***"
     },
     {
         "name": "WTMI",
         "meaning": "Way Too Much Information"
     },
     {
-        "name": "WTSDS",
-        "meaning": "Where The Sun Don't Shine"
-    },
-    {
-        "name": "WTSHTF",
-        "meaning": "When The Sh** Hits The Fan"
-    },
-    {
         "name": "WTTM",
         "meaning": "Without Thinking Too Much"
     },
     {
-        "name": "WTTP",
-        "meaning": "Want To Trade Pictures?"
-    },
-    {
         "name": "WTWT",
         "meaning": "What to Watch Tonight"
-    },
-    {
-        "name": "WUBB",
-        "meaning": "What's Up Baby Boy"
-    },
-    {
-        "name": "WUBG",
-        "meaning": "What's Up Baby Girl"
     },
     {
         "name": "WUWH",
@@ -4164,32 +2740,8 @@
         "meaning": "What Would Be Accurate"
     },
     {
-        "name": "WWJD",
-        "meaning": "What Would Jesus Do?"
-    },
-    {
         "name": "WWNO",
         "meaning": "Walker Wheels Need Oil"
-    },
-    {
-        "name": "WWSD",
-        "meaning": "What Would Satan Do?"
-    },
-    {
-        "name": "WWTT",
-        "meaning": "World Wide Trending Topic -or- World Wide Twitter Trend"
-    },
-    {
-        "name": "WYCM",
-        "meaning": "Will You Call Me?"
-    },
-    {
-        "name": "WYFM",
-        "meaning": "Would You F*** Me?"
-    },
-    {
-        "name": "WYRN",
-        "meaning": "What's Your Real Name?"
     },
     {
         "name": "WYSLPG",
@@ -4220,10 +2772,6 @@
         "meaning": "Exquisite"
     },
     {
-        "name": "XXCC",
-        "meaning": "Kiss, Kiss, Hug, Hug"
-    },
-    {
         "name": "YABA",
         "meaning": "Yet Another Bloody Acronym"
     },
@@ -4236,52 +2784,20 @@
         "meaning": "You Always Have Other Options"
     },
     {
-        "name": "YAJWD",
-        "meaning": "You Ain't Just Whistling Dixie"
-    },
-    {
         "name": "YAOTM",
         "meaning": "Yet Another Off Topic Message"
-    },
-    {
-        "name": "YATFM",
-        "meaning": "You Are Too F***ing Much"
-    },
-    {
-        "name": "YATI",
-        "meaning": "You're A Total Idiot"
     },
     {
         "name": "YAUN",
         "meaning": "Yet Another Unix Nerd"
     },
     {
-        "name": "YCMTSU",
-        "meaning": "You Can't Make This Sh** Up"
-    },
-    {
         "name": "YCMU",
         "meaning": "You Crack Me Up"
     },
     {
-        "name": "YDKM",
-        "meaning": "You Don't Know Me"
-    },
-    {
         "name": "YGBK",
         "meaning": "You Gotta Be Kidding"
-    },
-    {
-        "name": "YGBSM",
-        "meaning": "You Gotta Be Sh**ing Me"
-    },
-    {
-        "name": "YGLT",
-        "meaning": "You're Gonna Love This"
-    },
-    {
-        "name": "YGTBK",
-        "meaning": "You've Got To Be Kidding"
     },
     {
         "name": "YGTI",
@@ -4294,14 +2810,6 @@
     {
         "name": "YIMBY",
         "meaning": "Yes In My Back Yard"
-    },
-    {
-        "name": "YITE",
-        "meaning": "Are You All Right?"
-    },
-    {
-        "name": "YIWGP",
-        "meaning": "Yes, I Will Go Private"
     },
     {
         "name": "YKWIM",
@@ -4324,76 +2832,24 @@
         "meaning": "You Must Be Kidding Me"
     },
     {
-        "name": "YMMD",
-        "meaning": "You Make My Day -or- You Made My Day"
-    },
-    {
         "name": "YMMV",
         "meaning": "Your Mileage May Vary"
-    },
-    {
-        "name": "YNGBT",
-        "meaning": "You're Not Gonna Believe This"
     },
     {
         "name": "YOCO",
         "meaning": "Your Only Cute Online"
     },
     {
-        "name": "YOFO",
-        "meaning": "You're Only Famous Online"
-    },
-    {
         "name": "YOLO",
         "meaning": "You Only Live Once"
-    },
-    {
-        "name": "Yooper",
-        "meaning": "someone from U.P."
-    },
-    {
-        "name": "YOYO",
-        "meaning": "You're On Your Own"
-    },
-    {
-        "name": "YRYOCC",
-        "meaning": "You're Running on Your Own Cuckoo Clock"
-    },
-    {
-        "name": "YSAN",
-        "meaning": "You're Such A Nerd"
-    },
-    {
-        "name": "YSIC",
-        "meaning": "Why Should I Care?"
-    },
-    {
-        "name": "YSVW",
-        "meaning": "You're So Very Welcome"
-    },
-    {
-        "name": "YSYD",
-        "meaning": "Yeah, Sure You Do"
-    },
-    {
-        "name": "YTRNW",
-        "meaning": "Yeah That's Right, Now What?"
     },
     {
         "name": "YTTM",
         "meaning": "You Talk Too Much"
     },
     {
-        "name": "YTTT",
-        "meaning": "You Telling The Truth?"
-    },
-    {
         "name": "YUMPI",
         "meaning": "Young Upwardly Mobile Professional Idiot"
-    },
-    {
-        "name": "YWIA",
-        "meaning": "You're Welcome In Advance"
     },
     {
         "name": "YYSSW",

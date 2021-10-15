@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 from better_profanity import profanity
-
+import re
 
 def main():
     profanity.load_censor_words()
@@ -15,10 +15,11 @@ def main():
     for i in body_li:
         key = i.find('a').string
         value = i.find('div').string
+        isValueValid = value and bool(re.findall('^[\w ]+$', value))
         keycontainslowercase = key.islower()
         censored_value = profanity.censor(value)
         profanityfree = value == censored_value
-        if 4 <= len(key) <= 6 and key.isalpha() and profanityfree and not keycontainslowercase:
+        if 4 <= len(key) <= 6  and key.isalpha() and isValueValid and profanityfree and not keycontainslowercase:
             abbreviations.append({'name': key, 'meaning': value})
 
     #print(abbreviations)
